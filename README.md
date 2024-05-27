@@ -1,2 +1,2 @@
 # ecommerce
-"Explore our food ordering platform on GitHub! Browse, select, and contribute. Delivering culinary delights with open-source collaboration."
+📝 Developed a dynamic shoe and sneaker store website using JavaScript, catering to a seamless shopping experience for the users. 🛒🌟
